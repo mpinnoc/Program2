@@ -1,0 +1,20 @@
+T_RPAREN
+T_INT
+T_ID(x)
+T_ID(y)
+T_ID(z)
+T_ICONST(3)
+T_ICONST(2)
+T_ICONST(7)
+T_PLUS
+T_STAR
+T_ICONST(3)
+T_MINUS
+T_SLASH
+T_LPAREN
+T_ID(foo)
+T_SC
+T_SCONST("yo ho")
+Token count: 17
+Identifier count: 4
+String count: 1
